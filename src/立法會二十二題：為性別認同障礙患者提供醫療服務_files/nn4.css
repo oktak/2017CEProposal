@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 760px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+#wrapper {
+    width: 540px;
+    border: 1px none #000;
+}
+#content {
+    width: 540px;
+	display: inline;
+}
+#sidebar {
+    width: 210px;
+    padding-top: 40px;
+    background-color: #D1ECDA;
+}
+#header {
+	width: 100%;
+    margin-top: 20px;
+    border-bottom-width: 1px solid #053E21;
+}
+#langbar {
+    margin-top: 5px;
+    text-align: right;
+}
+#pressrelease {
+    margin-top: 15px;
+    margin-right: 5px;
+    font-size: 13px;
+	display: inline;
+}
+#photos{
+    margin-right: 5px;
+}
+#print {
+    text-align: right;
+}
+.box {
+    width: 180px;
+    margin: 0;
+    border: none;
+    background: #D4E4E9;
+}
+.box ul {
+	margin-left: -20px;
+}
+.box ul li {
+	list-style-type: square;
+	padding-bottom: 3px;
+}
+.clipheader {
+    font: bold 12px Arial, Helvetica, sans-serif;
+}

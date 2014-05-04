@@ -1,0 +1,10 @@
+@import url(base.css);
+
+#content, #sidebar{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+#wrapper, #sidebar{overflow: visible;}
+
+#wrapper{background: #FFFFFF;}
+#sidebar{background: #D1ECDA;}

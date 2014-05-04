@@ -1,0 +1,42 @@
+/*press releases*/
+
+#pressrelease {
+   
+	//font: 1em MingLiu_HKSCS, ²Ó©úÅé, Taipei, monospace;//new del
+
+	font: 1em "Arial", "Helvetica", "sans-serif";
+
+}
+
+
+.box ul li {
+    
+	font: 0.7em Arial, Helvetica, sans-serif;
+
+}
+
+
+.clipheader {
+    
+	font: bold 11px Arial, Helvetica, sans-serif;
+
+}
+
+
+.cliplist li {
+    
+	font: 11px Arial, Helvetica, sans-serif;
+
+}
+
+
+
+/*press releases index*/
+
+ul#datelist li {
+	
+	//font: 1em "Arial", "Helvetica", "sans-serif";//
+	
+	font: 1em "Arial", "Helvetica", "sans-serif";
+
+}
