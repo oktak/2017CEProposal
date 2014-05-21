@@ -12,7 +12,7 @@ Writing in response to [this](http://www.2017.gov.hk/tc/consult/document.html "M
 ## 2017年行政長官產生辦法
 ### (一)    提名委員會的人數和組成
 
-![Alt text](img/inline-myproposal-01.png "重新設計四大界別")
+![Redesign Four Categories](img/inline-myproposal-01.png "重新設計四大界別")
 
 
 (i)    不按選舉委員會四個界別組成，另設四大界別，分別為：
@@ -136,6 +136,10 @@ __註 1__
 >  *年滿十八歲通常居住居民而未有登記成為選民人數：*<br>
 > `5,597,353 – 3,471,423 = 2,125,930`
 
+
+<br>
+* * *
+![My Proposal](img/myproposal_full.png "我的政改方案全頁")
 
 
 [1]: http://www.legislation.gov.hk/blis_pdf.nsf/6799165D2FEE3FA94825755E0033E532/F2A4958CF115CC16482575EF000D602A?OpenDocument&amp;bt=0  "第480章 《性別歧視條例》第35條"
